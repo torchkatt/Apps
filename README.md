@@ -1,1 +1,8 @@
-# Apps
+# Notes
+
+## Usage
+
+### PhoneGap CLI
+
+    $ phonegap serve
+
